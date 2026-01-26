@@ -9,12 +9,11 @@
     font-size: 36px;
 }
 
-.odd.cooler {
-    font-size: 36px;
+.cooler {
+    font-size: 24px;
 }
 
 #another-id {
     background-color: rgb(122, 233, 122);
-    font-size: 24px;
     font-weight: bold;
 }
